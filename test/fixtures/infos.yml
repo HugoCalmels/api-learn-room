@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  belongs_to: 
+  voice_chat: MyString
+  git: MyString
+  documentation: MyString
+  design: MyString
+  project_tracker: MyString
+  team_rules: MyText
+
+two:
+  belongs_to: 
+  voice_chat: MyString
+  git: MyString
+  documentation: MyString
+  design: MyString
+  project_tracker: MyString
+  team_rules: MyText
